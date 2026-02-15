@@ -40,7 +40,7 @@ db.run(`
   )
 `);
 
-// ✅ Root route (THIS is what fixes your "Cannot GET /" problem)
+// Root route (THIS is what fixes your "Cannot GET /" problem)
 app.get("/", (req, res) => {
   res.send("Expense Tracker API running");
 });
