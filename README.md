@@ -1,8 +1,7 @@
 # Expense Tracker with Login
 
 A simple, secure expense tracker with user authentication.  
-Built as a full-stack app (React frontend + Node.js/Express backend + PostgreSQL or MongoDB).  
-Good starter project to show authentication, CRUD, and basic reporting.
+Built as a full-stack app (React frontend + Node.js/Express backend + PostgreSQL or MongoDB). 
 
 ---
 
