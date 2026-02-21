@@ -31,11 +31,7 @@ Good starter project to show authentication, CRUD, and basic reporting.
 ---
 
 ## Quick screenshots
-*(Add screenshots to `/assets` and reference them here)*
-
-![Dashboard](/assets/screenshot-dashboard.png)  
-![Add Expense](/assets/screenshot-add.png)
+To add later.
 
 ---
 
-## Folder structure
