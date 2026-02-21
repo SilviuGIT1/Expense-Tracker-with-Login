@@ -6,11 +6,6 @@ Good starter project to show authentication, CRUD, and basic reporting.
 
 ---
 
-## Demo
-*Add a link to a deployed demo here (Netlify / Vercel / Render / Heroku)*
-
----
-
 ## Features
 - User registration and login (JWT + secure password hashing)
 - Add / edit / delete expenses (amount, category, date, note)
